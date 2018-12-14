@@ -4,7 +4,7 @@ This application allows you to send an SMS via the KMD Logic SMS service.
 
 ## Usage
 
-1. Configure the `appsettings.json` with your personal settings from the [KMD Logic Console](https://console.kmdlogic.io).
+1. Configure the `appsettings.json` with your KMD Logic subscription settings. Read the comments in the `appsettings.json` for further details on which settings you need to configure.
 2. [Install dotnet core](https://dotnet.microsoft.com/download)
 3. Execute `dotnet run` in the root project folder.
 
